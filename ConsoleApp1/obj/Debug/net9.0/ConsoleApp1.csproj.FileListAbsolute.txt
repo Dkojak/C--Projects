@@ -1,0 +1,14 @@
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Tareh\Desktop\Daniel\Starting again\C# Projects\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
