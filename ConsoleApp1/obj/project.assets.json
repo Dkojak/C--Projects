@@ -1,11 +1,86 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Roslynator.Analyzers/4.14.0": {
+        "type": "package"
+      },
+      "Roslynator.CodeAnalysis.Analyzers/4.14.0": {
+        "type": "package"
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Roslynator.Analyzers/4.14.0": {
+      "sha512": "AEWQMrb1rcmjv9FGzrwYSBb4INhDhsauS+wwTumG0wq8N1Il+CIQHqUZJ7bt0zYJEA1qXSqgpg8Fgwc88WrR/Q==",
+      "type": "package",
+      "path": "roslynator.analyzers/4.14.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator.CSharp.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator.CSharp.Analyzers.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Analyzers_Roslynator.Workspaces.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator.CSharp.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator.CSharp.Analyzers.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Analyzers_Roslynator.Workspaces.Core.dll",
+        "docs/README.md",
+        "icon.png",
+        "roslynator.analyzers.4.14.0.nupkg.sha512",
+        "roslynator.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "Roslynator.CodeAnalysis.Analyzers/4.14.0": {
+      "sha512": "iUiC7mfaLWgUxnKyG90sCIwd4fLLrnDtOsVqh1PuAL+drDNi8If+2lG9B+gPjRrP/pYSfcu9TMRYSDMKOEpnoQ==",
+      "type": "package",
+      "path": "roslynator.codeanalysis.analyzers/4.14.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator.CodeAnalysis.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator.CodeAnalysis.Analyzers.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Workspaces.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator.CodeAnalysis.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator.CodeAnalysis.Analyzers.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_CodeAnalysis_Analyzers_Roslynator.Workspaces.Core.dll",
+        "docs/README.md",
+        "icon.png",
+        "roslynator.codeanalysis.analyzers.4.14.0.nupkg.sha512",
+        "roslynator.codeanalysis.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Roslynator.Analyzers >= 4.14.0",
+      "Roslynator.CodeAnalysis.Analyzers >= 4.14.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Tareh\\.nuget\\packages\\": {},
@@ -56,6 +131,20 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Roslynator.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[4.14.0, )"
+          },
+          "Roslynator.CodeAnalysis.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[4.14.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
