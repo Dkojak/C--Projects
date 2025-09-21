@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 namespace MyConsoleApps
 {
-    public class Program
+    public static class Program
     {
         static Dictionary<string, string> accounts = new Dictionary<string, string>();
 

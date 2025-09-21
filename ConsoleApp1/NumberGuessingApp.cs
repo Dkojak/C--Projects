@@ -2,7 +2,7 @@ using System;
 
 namespace MyConsoleApps
 {
-    public class NumberGuessingApp
+    public static class NumberGuessingApp
     {
         public static void Run()
         {

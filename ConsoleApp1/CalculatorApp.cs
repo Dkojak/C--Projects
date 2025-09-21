@@ -2,7 +2,7 @@
 
 namespace MyConsoleApps
 {
-    public class CalculatorApp
+    public static class CalculatorApp
     {
         public static void Run()
         {

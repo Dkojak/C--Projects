@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyConsoleApps
 {
-    public class MillionaireGameApp
+    public static class MillionaireGameApp
     {
         static readonly int[] MoneyLadder = new int[]
         {

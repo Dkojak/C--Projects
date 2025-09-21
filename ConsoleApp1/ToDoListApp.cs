@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyConsoleApps
 {
-    public class ToDoListApp
+    public static class ToDoListApp
     {
         private static List<string> tasks = new List<string>();
 
